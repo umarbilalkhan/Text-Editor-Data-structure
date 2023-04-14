@@ -1,0 +1,3 @@
+C:\Users\HP\source\repos\copy\x64\Debug\texteditor.exe
+C:\Users\HP\source\repos\editor\x64\Debug\texteditor.exe
+C:\Users\QC\Downloads\editor\x64\Debug\texteditor.exe
